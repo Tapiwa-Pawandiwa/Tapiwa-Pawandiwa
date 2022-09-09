@@ -1,4 +1,4 @@
-- <Hello, World !/> , I’m @Tapiwa-Pawandiwa ✌🏾
+# Hello, World ! I’m **Tapiwa-Pawandiwa**✌🏾
 
 ![BERN GIF](https://user-images.githubusercontent.com/31037140/189368010-a547b8bb-e42a-4053-9352-4cf35437570d.gif)
 
