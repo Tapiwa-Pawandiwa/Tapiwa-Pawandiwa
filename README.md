@@ -15,13 +15,14 @@ React Native ███████████   100%
 JavaScript   ███████████   100%
 TypeScript   █████████░░   80%
 Python       ████████░░░   70%
-HTML/CSS     ███████████  100%
+HTML/CSS     ███████████   100%
 Supabase     ███████░░░░   60%
+AWS Amplify  ████████░░░   70%
 Node.js      ███████░░░░   60%
 C#           ██████░░░░░   50%
 Svelte       ██████░░░░░   50%
 Tailwind     ████████░░░   70%
-Node.js      ████████░░░  70%
+Node.js      ████████░░░   70%
 ```
 Check out my [portfolio](https://tapiwa-pawandiwa.github.io/)
 
