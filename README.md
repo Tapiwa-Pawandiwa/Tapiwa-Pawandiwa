@@ -2,9 +2,9 @@
 
 <img src="https://user-images.githubusercontent.com/31037140/189372321-fc27f4fd-8f3e-4007-8de2-5549c813d164.gif" width="200"  />
 
-I am a Masters Student in Computerscience 🥸👨🏾‍💻.
+I am a Masters Graduate in Computer Science 🥸👨🏾‍💻.
 I am a Software Developer with key interests in
-Full-Stack Development 🕸  Mobile Development 📲 
+Full-Stack Development 🕸  Mobile Development 📲 and Applied AI (Forward Deploy Engineering)
 
 ## Career Roadmap and Skills List 
 
@@ -14,15 +14,22 @@ React        ██████████░   90%
 React Native ███████████   100%
 JavaScript   ███████████   100%
 TypeScript   █████████░░   80%
-Python       ████████░░░   70%
+Python       ████████░░░   80%
 HTML/CSS     ███████████   100%
 Supabase     ███████░░░░   60%
 AWS Amplify  ████████░░░   70%
 Node.js      ███████░░░░   60%
-C#           ██████░░░░░   50%
+C#           ██████░░░░░   60%
 Svelte       ██████░░░░░   50%
-Tailwind     ████████░░░   70%
+Tailwind     ████████░░░   75%
 Node.js      ████████░░░   70%
+
+
+Machine Learning
+Agentic AI (Claude , Google ADK, Langchain, Prompt Engineering, Harness, Evals)
+Research 
+UI / UX
+FIGMA
 ```
 Check out my [portfolio](https://tapiwa-pawandiwa.github.io/)
 
